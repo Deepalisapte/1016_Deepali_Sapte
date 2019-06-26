@@ -1,0 +1,11 @@
+C:\Users\Lalit\source\repos\avjadhav\DAL\bin\Debug\DAL.dll
+C:\Users\Lalit\source\repos\avjadhav\DAL\bin\Debug\DAL.pdb
+C:\Users\Lalit\source\repos\avjadhav\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lalit\source\repos\avjadhav\DAL\obj\Debug\DAL.dll
+C:\Users\Lalit\source\repos\avjadhav\DAL\obj\Debug\DAL.pdb
+D:\DotNet\studentCRUD\DAL\bin\Debug\DAL.dll
+D:\DotNet\studentCRUD\DAL\bin\Debug\DAL.pdb
+D:\DotNet\studentCRUD\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\DotNet\studentCRUD\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DotNet\studentCRUD\DAL\obj\Debug\DAL.dll
+D:\DotNet\studentCRUD\DAL\obj\Debug\DAL.pdb
